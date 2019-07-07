@@ -20,7 +20,7 @@
         "no-dupe-keys": "error",
         "eqeqeq": "error",
         "no-empty-function": "error",
-        "no-magic-number": "warn",
+        "no-magic-numbers": "warn",
         "no-multi-spaces": "warn",
         "init-declarations": "error",
         "global-require": "error",
