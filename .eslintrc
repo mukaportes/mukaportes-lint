@@ -52,6 +52,6 @@
         "prefer-destructuring": "error",
         "prefer-template": "error",
         "rest-spread-spacing": "error",
-        "comma-dangle": ["error", "always"]
+        "comma-dangle": ["error", "always-multiline"]
     }
 }
