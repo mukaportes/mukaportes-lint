@@ -40,7 +40,6 @@
         "no-mixed-operators": "warn",
         "no-unneeded-ternary": "error",
         "sort-keys": ["error", "asc"],
-        "space-before-blocks": ["error", "always"],
         "arrow-body-style": ["error", "always"],
         "arrow-parens": ["error", "always"],
         "arrow-spacing": "error",
