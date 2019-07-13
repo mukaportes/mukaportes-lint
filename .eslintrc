@@ -32,7 +32,7 @@
         "no-use-before-define": "warn",
         "max-len": ["error", { "code": 100 }],
         "max-lines": ["error", 100],
-        "complexity": ["error", 2],
+        "complexity": ["error", 15],
         "max-lines-per-function": ["error", 30],
         "max-nested-callbacks": ["error", 4],
         "max-params": ["error", 3],
